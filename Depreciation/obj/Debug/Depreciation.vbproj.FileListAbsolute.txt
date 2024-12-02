@@ -1,0 +1,7 @@
+c:\users\software\documents\visual studio 2015\Projects\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.vbprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.frmDisplayInventory.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\All Folders\IPMC\Depreciation\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
